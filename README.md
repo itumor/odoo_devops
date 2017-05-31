@@ -9,3 +9,4 @@ odoo_devops
 
 3)docker-compose up -d
 
+4)to add new addons /root/odoo/odoo-web-data/.local/share/Odoo/addons/10.0
